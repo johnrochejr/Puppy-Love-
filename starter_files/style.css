@@ -65,6 +65,11 @@ nav a {
   padding-bottom: .5em;
 }
 
-h2 {
+h2, h3 {
   color: #1fabe5;
+}
+
+li {
+  font-weight: bold;
+  margin-top: .5em;
 }
